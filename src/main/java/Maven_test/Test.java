@@ -16,12 +16,11 @@ public class Test {
 //		B b = (B)a;
 //		C c = (C)b;
 		
-//		You are creating one object of type B. As per your class hierarchy, each B object is also an A, but not a C.
-//		Now let's look on how to assign the reference to this B object to various variables:
-		
 		// Mensaje de prueba escrito en repositorio remoto
 		
-		
+//		You are creating one object of type B. As per your class hierarchy, each B object is also an A, but not a C.
+//		Now let's look on how to assign the reference to this B object to various variables:
+
 //		B b = (B)new A(); 
 		// texto de prueba en clase Test
 		/*
