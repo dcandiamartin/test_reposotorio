@@ -6,7 +6,7 @@ package Maven_test;
  */
 public class App {
 	public static void main(String[] args) {
-	    // Nuevo comentario en App
+	    // Nuevo comentario
 		Test t = new Test();
 		t.pruebaJerarquia();
 	}
